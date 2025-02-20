@@ -3,7 +3,7 @@
 
 This is simple Tokenized Bkash Payment system you can use it without any problem ,you have to put api only
 
-![Screenshot](https://github.com/eadi1/bkash_payment_system_tokenized/blob/main/screenshot.jpg)
+![Screenshot](https://github.com/pronabsen/Bkash-Tokenized-Raw-PHP/blob/main/screenshot.jpg)
 
 ## Table of Contents
 
@@ -44,10 +44,10 @@ pkg update && pkg upgrade -y
 ### pkg install git clone
  pkg install git clone
 ### Clone the repository
-git clone https://github.com/eadi1/bkash_payment_system_tokenized
+git clone https://github.com/pronabsen/Bkash-Tokenized-Raw-PHP
 
 ### Navigate to the project directory
-cd bkash_payment_system_tokenized
+cd Bkash-Tokenized-Raw-PHP
 
 
 
